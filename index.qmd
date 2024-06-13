@@ -1,5 +1,6 @@
 ---
 title: "Exercicio Git"
+author: Fred
 format: html
 ---
 
